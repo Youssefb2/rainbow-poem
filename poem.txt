@@ -9,4 +9,5 @@ black
 pink
 white 
 grey
+violet
 unicorn
