@@ -6,3 +6,8 @@ blue
 purple
 brown 
 black
+pink
+white 
+grey
+violet
+unicorn
